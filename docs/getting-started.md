@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Hi, and thanks for joining our repo
+- We love open source, we love contributers 
+- Thanks for helping us write awesome code
